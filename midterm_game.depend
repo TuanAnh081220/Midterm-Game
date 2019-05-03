@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1556819169 source:c:\users\thinkking\desktop\code\midterm_game\carwithsdll.cpp
+	"init.h"
+	"object.h"
+	"variable.h"
+
+1555656254 source:c:\users\thinkking\desktop\code\midterm_game\init.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1555656232 c:\users\thinkking\desktop\code\midterm_game\init.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1556291177 c:\users\thinkking\desktop\code\midterm_game\object.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1556819015 c:\users\thinkking\desktop\code\midterm_game\variable.h
+
+1556388496 source:c:\users\thinkking\desktop\code\midterm_game\object.cpp
+	"init.h"
+	"object.h"
+

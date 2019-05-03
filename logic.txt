@@ -1,0 +1,33 @@
+bool isRunning = true;
+
+while(isRunning)
+{
+	bool playGame = true;
+	showHome()
+
+	if( choose donate )
+		showDonate();
+		if (choose Home)
+			{continue;}
+	if ( choose Rule )
+		showRule();
+		if (choose Home)
+			{continue;}
+	while (playGame)
+	{
+	
+	playgame(  trong hàm này s? có ki?m tra va tr?m )
+	
+	showGameover()
+	
+	if( choose Restart)
+		continue;
+	if( choose Quit )
+		playGame = false;
+		isRunning = false;
+	if ( choose Home )
+		playgame = false;
+		continue;  
+	}
+	
+}
